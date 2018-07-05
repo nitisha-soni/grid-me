@@ -1,0 +1,48 @@
+{
+   "products": [
+        {
+            "name": "Printing print when yoo have no other ideas",
+            "imgPath": "https://i.pinimg.com/564x/41/b7/99/41b79913b29f99def3a9ba4b0872c61f.jpg"
+        },
+        {
+            "name": "Art is a good thing when you have no other choice",
+            "imgPath": "https://i.pinimg.com/564x/99/b9/18/99b9182696594fc8be6ee6ebc96161f5.jpg"
+        },
+        {
+            "name": "Making an idle print is a good job in market",
+            "imgPath": "https://i.pinimg.com/564x/fc/22/fa/fc22fae27c1d21496c3b8781909b1aec.jpg"
+        },
+        {
+            "name": "Logo is the key feature of a design",
+            "imgPath": "https://i.pinimg.com/564x/a6/f1/3a/a6f13a6a936e5bbbf7550c80f3e99ce0.jpg"
+        },
+      {
+         "name": "Modern Art has a capability to trace human features",
+         "imgPath": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/orange-tree.jpg"
+      },
+      {
+         "name": "Basic designs start from Logo when you have to observe the market",
+         "imgPath": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/submerged.jpg"
+      },
+      {
+         "name": "Art, freedom and creativity will change society faster than politics",
+         "imgPath": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/one-world-trade.jpg"
+      },
+      {
+         "name": "Art enables us to find ourselves and lose ourselves at the same time",
+         "imgPath": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/drizzle.jpg"
+      },
+      {
+         "name": "Art is a good thing",
+         "imgPath": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/cat-nose.jpg"
+      },
+      {
+         "name": "I need words and print... I need print like an addict. I could live without it, perhaps. But I hope I never have to try.",
+         "imgPath": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/contrail.jpg"
+      },
+      {
+        "name": "Books are humanity in print.",
+        "imgPath": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/82/look-out.jpg"
+    }
+  ]
+}
