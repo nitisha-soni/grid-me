@@ -1,4 +1,4 @@
-# hotstarAssignment
+# Pinterest
 Step to runb project
 
 1. Clone the project on your local
